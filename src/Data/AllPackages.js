@@ -742,6 +742,260 @@ export const TOP_PACKAGES = [
       numberOfPeople:2
 
     },
+    {
+      id:4 ,
+      img: a4,
+      heading:"Trip duration: 4 nights & 5 Days (Private passenger cruise ticket proposal) " ,
+      dayNight: "4 nights & 5 Days",
+      days: "5",
+      night: "4",
+      dayIn: [
+        {
+          day: "2",
+          desti: "Port Blair",
+        },
+        {
+          day: "1",
+          desti: "Swaraaj Dweep",
+        },
+        {
+          day: "1",
+          desti: "Shaheed Dweep",
+        },
+     
+      ],
+         
+      included: [
+        {
+          img: location,
+          title: "Transfer Included",
+        },
+        {
+          img: location,
+          title: "Stay Included",
+        },
+      ],
+
+      title: "Trip duration: 4 nights & 5 Days",
+       subtitle:"Solo Traveller" ,
+
+      itinerary: [
+        {
+          daynum: "1",
+          title: "First day in Shri Vijaya Puram (Port Blair)",
+          para: "Receive at the Airport; the private driver will drive you to the hotel.Check into the hotel and rest for a while. Afternoon at 2pm, reach Cellular jail, this is a must visit for any person as this place has many stories to tell people who love their countries dearly. Freedom fighters of India were prisoned here. This place for its jail was also known as Kala Paani. Death waters.One, who comes here, never returns. Rightfully it is so. 1300 kms away from the main land, in between the ocean, swimming is not the option. Spend time seeing the architecture and the way prisoners were treated. After seeing this place to your contempt, head towards Corbyns Cove Beach, one of the attractive beaches in Shri Vijaya Puram (Port Blair). Indulge in some water sports there. Jet skie or a speed boat ride & parasailing to snake island will thrill you. In the evening return to the cellular jail to see the light and sound show. The light and sound show for an hour will enlighten you with the history of the Cellular Jail. After the show, head back to the hotel. End of day 1.", 
+          to: "hotel",
+
+          transport: [
+            {
+              trans: "A/c cab pickup from airport and drop to hotel and trip around Shri Vijaya Puram (Port Blair)",
+              price: "₹1350",
+              price_to_cal: 1350,
+            },
+            {
+              trans: "Cellular jail entry ticket per head",
+              price: "30 x 1 = 30",
+              price_to_cal: 30,
+            },
+            {
+              trans: "Cellular jail Light and Sound show per head",
+              price: "300 x 1 = 300",
+              price_to_cal: 300,
+            },
+           
+          ],
+            
+
+        },
+        {
+          daynum: "2",
+          title: "Trip to Swaraaj Dweep (Havelock) Island, Elephant beach visit / Radhanagar beach visit and stay at Swaraaj Dweep (Havelock)",
+          para: "Early morning rise and the cab will pickup at 7:00am for the 8:00am cruise. Be dropped at Shri Vijaya Puram (Port Blair) jetty at 7:15am. Cruise sailing to Swaraaj Dweep (Havelock) is one hour thirty minutes on a good weather day. Reach Swaraaj Dweep (Havelock) by 9:45am. Our coordinator will guide you to board the speed boat that will take you to Elephant beach. Elephant beach is known for its pristine beach and the coral reef with loads of fish life. Snorkelling is complimentary. You can indulge in sea walking too organized by sea link adventures.  Return to Swaraaj Dweep (Havelock) Jetty for lunch at any restaurant. After lunch around 3:00 pm head to see the 7th most beautiful beach in Asia, Radhanagar beach. Radhanagar beach is also famous for its sunsets. Spend time until sunset at the beach and return to the hotel and retire for the day.",
+          from: "hotel in Port Blair",
+          to: " Baratang Island ",
+          transport: [
+            {
+              trans: "A/c cab pickup from hotel to Shri Vijaya Puram (Port Blair) jetty",
+              price: "₹250",
+              price_to_cal: 250,
+            },
+            {
+              trans: "Private passenger cruise tickets to Swaraaj Dweep (Havelock) Island from Shri Vijaya Puram (Port Blair)",
+              price: "1,775 x 1 = 1,775",
+              price_to_cal: 1775,
+            },
+            {
+              trans: "Speed boat tickets to Elephant beach on sharing basis",
+              price: "1,000 x 1 = 1,000",
+              price_to_cal: 1000,
+            },
+            {
+              trans: "A/c cab pickup from Swaraaj Dweep (Havelock) jetty to the hotel",
+              price: "250",
+              price_to_cal: 250,
+            },
+         
+            {
+              trans: "A/c cab trip to Radhanagar beach and return to the hotel",
+              price: "850",
+              price_to_cal: 850,
+            },
+         
+          ],
+          
+          
+        },
+        {
+          daynum: "3",
+          title: "Trip toShaheed Dweep (Neil Island) fromSwaraaj Dweep (Havelock) Island.",
+          para: "Early morning rise and after breakfast& checking out of the hotel, head to Swaraaj Dweep (Havelock) jetty to board the cruise to Shaheed Dweep (Neil Island)by 8:00 am for the sailing at 10:00 am. Reach Shaheed Dweep (Neil Island)at11:10 am. A/c cab with private driver will pick you and drop you at the hotel for check in. After some rest, head to visit Bharathpur beach. One of the best beach in Shaheed Dweep (Neil Island) Indulge in some water sport activities like jet skie, glass bottom boat ride etc, on spot payments. Spend time until late evening and then head to Laxmanpur beach to see one of the best sunsets. Evening return to the hotel and retire for the day.",
+          from: "Port Blair jetty ",
+          to: " Swaraaj Dweep ",
+          transport: [
+            {
+              trans: "A/c cab pickup from the hotel and drop to Swaraaj Dweep (Havelock) jetty",
+              price: "₹250",
+              price_to_cal: 250,
+            },
+            {
+              trans: "Private passenger cruise ticket to Shaheed Dweep (Neil Island) from Swaraaj Dweep (Havelock)",
+              price: "1,650 x 1 = 1,650",
+              price_to_cal: 1650,
+            },
+            {
+              trans: "A/c cab pickup and tour in Shaheed Dweep (Neil Island) ",
+              price: "1,800",
+              price_to_cal: 1800,
+            },
+        
+          ],
+          
+          
+        },
+        {
+          daynum: "4",
+          title: "Return from Shaheed Dweep (Neil Island) in the morning cruise and visit Subash Chandra Bose Dweep (Ross Island)",
+          para: "Early morning rise by 4:00am, the cab will pick you to drive you to sitapur beach. Sitapur beach is known for its beautiful beach and also the awesome sunrises. After the sunrise, head back to the hotel for breakfast. Checkout of the hotel and head to Shaheed Dweep (Shaheed Dweep (Neil Island)) Jetty to board the cruise back to Shri Vijaya Puram (Port Blair). Leave Shaheed Dweep (Neil Island) at 11:30 am cruise and reach Shri Vijaya Puram (Port Blair) at 12:30 pm. Directly head to Aberdeen jetty to board the ferry to Subash Chandra Bose Dweep (Ross Island) at 2:00pm. Subash Chandra Bose Dweep (Ross Island)Subash Chandra Bose Dweep (Ross Island) was the first administrative island in the British rule of the islands. The island now in the ruins depicts the brilliant architecture that evolved in the time of the British rule. A walk through the island will enlighten you about the living conditions of the British in the time of the Indian freedom struggle. A visit to the museum at Subash Chandra Bose Dweep (Ross Island) will showcase the stages of development in the Island. Later in the evening return back to Aberdeen jetty and be dropped at the hotel. End of day.",
+          from: "Scuba Diving Day",
+          to: "Elephant Beach ",
+          transport: [
+            {
+              trans: "A/c cab to view sunrise at Shaheed Dweep (Neil Island) and drop to jetty",
+              price: "₹800",
+              price_to_cal: 800,
+            },
+           
+            {
+              trans: "Private passenger cruise tickets to Shri Vijaya Puram (Port Blair) from Shaheed Dweep (Neil Island)",
+              price: "1,675 x 1 = 1,675",
+              price_to_cal: 1675,
+            },
+           
+            {
+              trans: "A/c cab pickup and drop to the hotel at Shri Vijaya Puram (Port Blair)",
+              price: "300",
+              price_to_cal: 300,
+            },
+           
+            {
+              trans: "A/c cab pickup and drop to Aberdeen jetty and back to the hotel",
+              price: "500",
+              price_to_cal: 500,
+            },
+           
+           
+            {
+              trans: "Subash Chandra Bose Dweep (Ross Island) speed boat ticket",
+              price: "570 x 1 = 570",
+              price_to_cal: 570,
+            },
+           
+            {
+              trans: "Entry ticket to Subash Chandra Bose Dweep will be borne by the guest.",
+              price: "40 x 1 = 40",
+              price_to_cal: 40,
+            },
+           
+          ]
+          
+          
+        },
+       
+        {
+          daynum: "5",
+          title: "Return Home with Sweet Memory.",
+          para: "Early morning rise and after breakfast head to the airport according the flight schedule. If time provides, do some shopping on the way.",
+          from: "Scuba Diving Day",
+          to: "Elephant Beach ",
+          transport: [
+            {
+              trans: "A/c cab pickup from the hotel and drop to airport",
+              price: "₹500",
+              price_to_cal: 500,
+            },
+           
+           
+           
+          ]
+          
+          
+        },
+       
+     
+      ],
+     
+      stayAt: [
+        {
+          at: "Shri Vijaya Puram (Port Blair)",
+          hotel: "Hotel Star Paradise Deluxe Sea View room on CP Plan",
+          equa: "3,808 x 1 rooms x 2 nights",
+          price: "7,616",
+          price_to_cal: 7616,
+          childequa: "0",
+          childprice: "0",
+          childprice_to_cal: 0
+        },
+        {
+          at: "Swaraaj Dweep (Havelock Island)",
+          hotel: "Lemon Grass Beach Resort Lagoon room on CP Plan",
+          equa: "4,480 x 1 room x 1 nights",
+          price: "4,480",
+          price_to_cal: 4480,
+          childequa: "0",
+          childprice: "0",
+          childprice_to_cal: 0
+        },
+       
+        {
+          at: "Shaheed Dweep (Neil Island)",
+          hotel: "Tango beach resort Lagoon room on CP  Plan",
+          equa: "4,004 x 1 room x 1 night ",
+          price: "4,004",
+          price_to_cal: 4004,
+          childequa: "0",
+          childprice: "0",
+          childprice_to_cal: 0
+        },
+       
+      ],      
+      transportTicket:[
+        {
+          title:"Total for transportation, entry tickets and speed boat tickets" ,
+          price:"8,750" , 
+          price_to_cal: 8750
+        } ,
+        {
+          title:"Private passenger cruise tickets" ,
+          price:"5,100" ,
+          price_to_cal: 5100
+        } ,
+
+      ] ,
+      packageSubTotal:"29,950" ,
+      subtotal_to_cal: 29950 , 
+      numberOfPeople:1
+
+    },
 
     // {
     //   id:1 ,
